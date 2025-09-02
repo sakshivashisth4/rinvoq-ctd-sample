@@ -1,6 +1,6 @@
 # Regulatory Writing Portfolio – Rinvoq (Upadacitinib)
 
-This repository contains sample **Common Technical Document (CTD) Module 2 sections** prepared as part of a regulatory writing portfolio project.  
+This repository contains sample **Common Technical Document (CTD) Module 1-5 sections** prepared as part of a regulatory writing portfolio project.  
 The drug selected is **Upadacitinib (Rinvoq®)**, a selective JAK1 inhibitor approved for multiple autoimmune conditions.
 
 ## 📂 Contents
